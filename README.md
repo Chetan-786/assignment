@@ -3,7 +3,7 @@
 
 
 Steps:-
-1) git clone
+1) git clone https://github.com/Chetan-786/assignment.git
 2) cd myapp/
 3) npm install
 
